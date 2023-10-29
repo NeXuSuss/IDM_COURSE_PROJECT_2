@@ -2,6 +2,16 @@
 
 
 ---
+## Team Members and Contributions
+
+- [Team Member 1](#team-member-1):
+  - Contributions: Describe the specific contributions and tasks completed by this team member.
+
+- [Team Member 2](#team-member-2):
+  - Contributions: Describe the specific contributions and tasks completed by this team member.
+
+- [Team Member 3](#team-member-3):
+  - Contributions: Describe the specific contributions and tasks completed by this team member.
 
 # Exploratory Data Analysis, Data Preprocessing, and Classification Model Building
 
@@ -82,6 +92,7 @@ You can install these libraries using the following command:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+python classification.ipynb
 ```
 
 ## Project Structure
