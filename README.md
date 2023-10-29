@@ -2,22 +2,22 @@
 
 Welcome to our project on Exploratory Data Analysis (EDA), Data Preprocessing, and Classification Analysis! In this project, we will analyze a dataset with the following attributes:
 
-### Team Member 1
+### Team Member 1(202311067)
 - Contributions: Team Member 1 played a key role in data collection and initial data preprocessing. They were responsible for data cleaning, handling missing values, and ensuring data quality.
 
-### Team Member 2
+### Team Member 2((202311048)
 - Contributions: Team Member 2 focused on the exploratory data analysis (EDA) phase. They conducted data visualizations, identified data patterns, and extracted meaningful insights to guide the subsequent analysis.
 
-### Team Member 3
+### Team Member 3(202311066)
 - Contributions: Team Member 3 specialized in building and fine-tuning classification models. They designed an end-to-end machine learning pipeline, optimized hyperparameters, and evaluated model performance.
 
-### Team Member 4
+### Team Member 4(202311033)
 - Contributions: Team Member 4 contributed to feature engineering and data transformation. They played a crucial role in preparing the dataset for machine learning.
 
-### Team Member 5
+### Team Member 5(202311040)
 - Contributions: Team Member 5 was responsible for model evaluation and result reporting. They performed in-depth analysis of model performance and helped compare different models.
 
-### Team Member 6
+### Team Member 6(202311061)
 - Contributions: Team Member 6 managed the project coordination and documentation. They ensured effective communication among team members and organized project tasks.
 
 ## Summary of the Dataset
