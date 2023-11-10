@@ -11,11 +11,8 @@ Welcome to our project on Exploratory Data Analysis (EDA), Data Preprocessing, a
 ### Team Member 3(202311066)
 - Contributions: Team Member 3 specialized in building and fine-tuning classification models. They designed an end-to-end machine learning pipeline, optimized hyperparameters, and evaluated model performance.
 
-### Team Member 4(202311033)
-- Contributions: Team Member 4 contributed to feature engineering and data transformation. They played a crucial role in preparing the dataset for machine learning.
-
-### Team Member 5(202311040)
-- Contributions: Team Member 5 was responsible for model evaluation and result reporting. They performed in-depth analysis of model performance and helped compare different models.
+### Team Member 4(202311033) & 5(202311040)
+- Contributions: Feature engineering and data transformation, preparing the dataset for machine learning, model evaluation, result reporting, analysis of model performance and comparing different models.
 
 ### Team Member 6(202311061)
 - Contributions: Team Member 6 managed the project coordination and documentation. They ensured effective communication among team members and organized project tasks.
